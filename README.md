@@ -51,24 +51,6 @@ Copy code
 jupyter notebook
 Open the Movie_Data_Analysis.ipynb notebook to explore the analysis.
 
-Project Structure
-bash
-Copy code
-movie-data-analysis/
-│
-├── data/
-│   ├── movies.csv            # Original dataset
-│   └── cleaned_movies.csv    # Cleaned dataset after preprocessing
-│
-├── notebooks/
-│   └── Movie_Data_Analysis.ipynb   # Jupyter Notebook with analysis
-│
-├── visualizations/
-│   └── *.png                 # Saved charts and visualizations
-│
-├── requirements.txt          # Python dependencies
-│
-└── README.md                 # Project documentation
 Analysis Overview
 The analysis is divided into the following sections:
 
